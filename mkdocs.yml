@@ -1,0 +1,4 @@
+site_name: Documentación de la API de creacion de Ordenes - Smart Pickup
+nav:
+  - Inicio: index.md
+  - Crear Orden: createOrder.md
