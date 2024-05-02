@@ -1,4 +1,6 @@
 site_name: Documentación de la API de Ordenes - Smart Pickup
+docs_dir: docs
+
 nav:
   - Inicio: index.md
   - Crear Orden: createOrder.md
