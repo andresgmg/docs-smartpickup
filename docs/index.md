@@ -1,6 +1,8 @@
 # Documentación de la API
 
 Bienvenido a la documentación de la API de Smart PickUp.
+- Url de la documentacion en español: https://api-docs-smartpickup.readthedocs.io/es/latest/
+- Url de la documentacion en Ingels: No implementada
 
 ## Introducción
 
