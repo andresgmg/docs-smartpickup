@@ -2,3 +2,4 @@ site_name: Documentación de la API de Ordenes - Smart Pickup
 nav:
   - Inicio: index.md
   - Crear Orden: createOrder.md
+  - Consultar Estados Orden: statusOrder.md
