@@ -1,6 +1,6 @@
 # Documentación de la API - Smart Pickup
 
-![](img/Aspose.Words.721ca2bf-7c39-4c8d-92b2-c3a804e26bfe.002.jpeg)
+![](img/logo-spup.jpeg)
 
 ### Bienvenido a la documentación de la API de Smart PickUp.
 
