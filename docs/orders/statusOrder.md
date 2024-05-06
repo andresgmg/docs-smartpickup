@@ -1,3 +1,5 @@
+![](../img/logo-spup.jpeg)
+
 # Consultar Estado de Orden
 
 Este endpoint se utiliza para consultar el estado de una orden utilizando un TrackID específico.
@@ -30,7 +32,7 @@ Authorization: Token {{token}}
 
 La respuesta exitosa devolverá el estado de la orden consultada.
 
-## Ejemplo de respuesta exitosa
+### Ejemplo de respuesta exitosa
 ```json
 {
   "tracking_id": "MIALWH000000189519",
@@ -43,7 +45,7 @@ La respuesta exitosa devolverá el estado de la orden consultada.
 ### Respuesta de Error
 En caso de error, se devolverá un código de estado HTTP correspondiente junto con un mensaje de error explicativo.
 
-## Ejemplo de respuesta de error
+### Ejemplo de respuesta de error
 ```json
 {
   "error": "Not Found",
@@ -51,7 +53,7 @@ En caso de error, se devolverá un código de estado HTTP correspondiente junto 
 }
 ```
 
-## Códigos de Estado - Código	Descripción
+### Códigos de Estado - Código	Descripción
 - 200	OK - Solicitud exitosa
 - 404	Not Found - La orden no fue encontrada
 - 401	Unauthorized - Token de autenticación inválido

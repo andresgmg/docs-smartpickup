@@ -1,3 +1,5 @@
+![](../img/logo-spup.jpeg)
+
 # Crear Orden
 
 Aquí se detalla cómo crear una orden utilizando la API de [Nombre del Proyecto].

@@ -1,9 +1,12 @@
-site_name: Documentación de la API de Ordenes - Smart Pickup
+site_name: Documentación API - Smart Pickup
 docs_dir: docs
 
 nav:
-  - Inicio: index.md
-  - Crear Orden: createOrder.md
-  - Consultar Estados Orden: statusOrder.md
-  - V1.0 API Smart Pickup (EN): V1.0 API Smart Pickup (EN).md
-  - PUDOs (deprecated): pudos-deprecated.md
+    - Inicio: index.md
+    - Ordenes:
+          - Crear Orden: orders/createOrder.md
+          - Consultar Estados Orden: orders/statusOrder.md
+    - V1.0 API Smart Pickup (English):
+          - Orders Docs: orders/orders-EN.md
+          - V1.0 API Smart Pickup: V1.0 API Smart Pickup (EN).md
+          - PUDOs (deprecated): pudos-deprecated.md
