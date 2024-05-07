@@ -1,12 +1,16 @@
 site_name: Documentación API - Smart Pickup
+repo_url: https://github.com/andresgmg/docs-smartpickup/
 docs_dir: docs
 
+extra:
+      favicon: "img/favicon.ico"
+
 nav:
-    - Inicio: index.md
-    - Ordenes:
-          - Crear Orden: orders/createOrder.md
-          - Consultar Estados Orden: orders/statusOrder.md
-    - V1.0 API Smart Pickup (English):
-          - Orders Docs: orders/orders-EN.md
-          - V1.0 API Smart Pickup: V1.0 API Smart Pickup (EN).md
-          - PUDOs (deprecated): pudos-deprecated.md
+      - Inicio: index.md
+      - Ordenes:
+              - Crear Orden: orders/createOrder.md
+              - Consultar Estados Orden: orders/statusOrder.md
+      - V1.0 API Smart Pickup (English):
+              - Orders Docs: orders/orders-EN.md
+              - V1.0 API Smart Pickup: V1.0 API Smart Pickup (EN).md
+              - PUDOs (deprecated): pudos-deprecated.md
